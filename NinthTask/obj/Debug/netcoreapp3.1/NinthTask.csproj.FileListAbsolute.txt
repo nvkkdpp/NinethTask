@@ -1,0 +1,13 @@
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.exe
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.deps.json
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.dll
+C:\Users\Илья\source\repos\NinthTask\NinthTask\bin\Debug\netcoreapp3.1\NinthTask.pdb
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.dll
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.pdb
+C:\Users\Илья\source\repos\NinthTask\NinthTask\obj\Debug\netcoreapp3.1\NinthTask.genruntimeconfig.cache
